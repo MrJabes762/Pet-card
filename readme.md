@@ -2,4 +2,4 @@
 
 ## Tecnologias 
 
--> Html, CSS, Java Script Vanilla
+-> Html, CSS, Java Script Vanilla.
